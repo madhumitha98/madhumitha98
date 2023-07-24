@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning python, Machinelearning and statistics.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="madhumitha-kuppachi-97823413b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/madhumitha-kuppachi-97823413b?trk=profile-badge">Madhumitha Kuppachi</a></div>
+- 📫 How to reach me<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="madhumitha-kuppachi-97823413b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/madhumitha-kuppachi-97823413b?trk=profile-badge">Madhumitha Kuppachi</a></div>
               
 
 <!---
